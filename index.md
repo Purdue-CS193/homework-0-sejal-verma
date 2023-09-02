@@ -1,3 +1,10 @@
+# Sejal's First CS193 Homework
+
+- a lot of my friends are in this class 
+- the instructors seem like nice people
+- the class is chill so no stress
+- the coursework is also pretty chill
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
